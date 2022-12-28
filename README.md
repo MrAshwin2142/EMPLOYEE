@@ -19,6 +19,7 @@ Learn about 3-tier mapping and diffrent types relations between Employee, Projec
     * spring-boot-Junit
     * spring-boot-mockito
     * spring-boot-devtools
+    * springfox-swagger2
 
 ### Entities
 
